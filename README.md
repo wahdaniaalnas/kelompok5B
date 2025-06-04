@@ -1,6 +1,6 @@
 # kelompok5B
-- alwansyah
-- sitti aisyah
-- wahdania
-- adhalya Amaly Aziz
-- abednego
+- Alwansyah
+- Sitti Aisyah
+- Wahdania
+- Adhalya Amaly Aziz
+- Abednego
