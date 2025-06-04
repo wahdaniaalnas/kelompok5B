@@ -2,5 +2,5 @@
 - alwansyah
 - sitti aisyah
 - wahdania
-- adhalya amaly aziz 
+- adhalya A.Z
 - abednego
